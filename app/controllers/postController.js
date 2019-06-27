@@ -39,3 +39,5 @@ router.delete("/api/post/:id", function(req, res) {
       }
     });
   });
+
+  module.exports = router;
