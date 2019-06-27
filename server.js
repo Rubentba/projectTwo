@@ -6,6 +6,9 @@ const bodyParser = require('body-parser')
 const env = require('dotenv')
 const exphbs = require('express-handlebars')
 
+
+"Hi"
+
 var app = express()
 
 //For BodyParser
